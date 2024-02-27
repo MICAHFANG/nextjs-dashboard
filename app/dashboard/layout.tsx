@@ -1,5 +1,5 @@
 import { FC, PropsWithChildren } from 'react';
-import SideNav from '../../ui/dashboard/sidenav';
+import SideNav from '../ui/dashboard/sidenav';
 
 const Layout: FC<PropsWithChildren> = ({ children }) => {
   return (
